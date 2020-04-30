@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jordan-taylor/static/css/main.d1b05096.chunk.css",
+    "main.js": "/jordan-taylor/static/js/main.e43a1691.chunk.js",
+    "main.js.map": "/jordan-taylor/static/js/main.e43a1691.chunk.js.map",
+    "runtime-main.js": "/jordan-taylor/static/js/runtime-main.10a2d297.js",
+    "runtime-main.js.map": "/jordan-taylor/static/js/runtime-main.10a2d297.js.map",
+    "static/js/2.15931a8f.chunk.js": "/jordan-taylor/static/js/2.15931a8f.chunk.js",
+    "static/js/2.15931a8f.chunk.js.map": "/jordan-taylor/static/js/2.15931a8f.chunk.js.map",
+    "index.html": "/jordan-taylor/index.html",
+    "precache-manifest.00f00d57fffbec6e3716c4a66213a87e.js": "/jordan-taylor/precache-manifest.00f00d57fffbec6e3716c4a66213a87e.js",
+    "service-worker.js": "/jordan-taylor/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/jordan-taylor/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.15931a8f.chunk.js.LICENSE.txt": "/jordan-taylor/static/js/2.15931a8f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/jordan-taylor/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10a2d297.js",
+    "static/js/2.15931a8f.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.e43a1691.chunk.js"
+  ]
+}
